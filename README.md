@@ -1,3 +1,5 @@
+Online e-commerce website to sell products developped using : Asp.Net core Api , SQL , Entity Framework ,Onion Architecture , Repository Design Pattern And Unit Of Work , Specification Pattern , Redis.
+
 🧠 Architecture & Patterns Used
 - 🧅 Onion Architecture: Separation of concerns with clear layering between Core, Infrastructure, and API.
 - 📐 Specification Pattern: For flexible and reusable query logic.
