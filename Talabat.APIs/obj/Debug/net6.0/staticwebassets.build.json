@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "6g0/lI+4DmMHRPGwGQ8BqCq3WSXKWX1P39Nf59qF/TY=",
+  "Hash": "FOBRmTz3PYA18iI68NPEnfksafvIW/gttKSkcerZpXk=",
   "Source": "Talabat.APIs",
   "BasePath": "_content/Talabat.APIs",
   "Mode": "Default",
@@ -16,6 +16,27 @@
     }
   ],
   "Assets": [
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qi2fiyu70a",
+      "Integrity": "gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png"
+    },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
       "SourceId": "Talabat.APIs",
@@ -120,6 +141,69 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\boot-redis1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Frappuccino.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/Caramel Frappuccino#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mc26vmla2s",
+      "Integrity": "ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Caramel Frappuccino.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/Caramel Macchiato with Vanilla Cold Foam#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "9eewfoxrcn",
+      "Integrity": "4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Espresso Frappuccino.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/Espresso Frappuccino#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "wouw9cw872",
+      "Integrity": "oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Espresso Frappuccino.png"
     },
     {
       "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\glove-code1.png",
@@ -393,9 +477,112 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\images\\products\\sb-ts1.png"
+    },
+    {
+      "Identity": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Strawberry Acai Star.png",
+      "SourceId": "Talabat.APIs",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\",
+      "BasePath": "_content/Talabat.APIs",
+      "RelativePath": "images/products/Strawberry Acai Star#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "jj5g3y1qs8",
+      "Integrity": "8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\products\\Strawberry Acai Star.png"
     }
   ],
   "Endpoints": [
+    {
+      "Route": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.qi2fiyu70a.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:34:39 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qi2fiyu70a"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="
+        }
+      ]
+    },
     {
       "Route": "images/products/boot-ang1.frtmm817eo.png",
       "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
@@ -803,6 +990,252 @@
         {
           "Name": "integrity",
           "Value": "sha256-tH0qxu2yfEFxnXwn8S9eUtVEa3EGPiaY8JkfdI/L5jY="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Frappuccino.mc26vmla2s.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:00:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc26vmla2s"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Caramel Frappuccino.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Frappuccino.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:00:09 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Macchiato with Vanilla Cold Foam.9eewfoxrcn.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9eewfoxrcn"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Caramel Macchiato with Vanilla Cold Foam.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Macchiato with Vanilla Cold Foam.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:32:24 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Espresso Frappuccino.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Espresso Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:19:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Espresso Frappuccino.wouw9cw872.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Espresso Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:19:02 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wouw9cw872"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Espresso Frappuccino.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28="
         }
       ]
     },
@@ -1869,6 +2302,88 @@
         {
           "Name": "integrity",
           "Value": "sha256-/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Strawberry Acai Star.jj5g3y1qs8.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Strawberry Acai Star.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:36:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jj5g3y1qs8"
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Strawberry Acai Star.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Strawberry Acai Star.png",
+      "AssetFile": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Strawberry Acai Star.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:36:26 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="
         }
       ]
     }

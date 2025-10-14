@@ -1,6 +1,26 @@
 {
   "Files": [
     {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "PackagePath": "staticwebassets\\images\\products\\A Glass Of Iced Coffee With Milk And Ice Cubes.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Frappuccino.png",
+      "PackagePath": "staticwebassets\\images\\products\\Caramel Frappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png",
+      "PackagePath": "staticwebassets\\images\\products\\Caramel Macchiato with Vanilla Cold Foam.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Espresso Frappuccino.png",
+      "PackagePath": "staticwebassets\\images\\products\\Espresso Frappuccino.png"
+    },
+    {
+      "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\Strawberry Acai Star.png",
+      "PackagePath": "staticwebassets\\images\\products\\Strawberry Acai Star.png"
+    },
+    {
       "Id": "C:\\Users\\ahmed\\Desktop\\Benisueflnatke42\\Talabat.G04.Solution\\Talabat.APIs\\wwwroot\\images\\products\\boot-ang1.png",
       "PackagePath": "staticwebassets\\images\\products\\boot-ang1.png"
     },

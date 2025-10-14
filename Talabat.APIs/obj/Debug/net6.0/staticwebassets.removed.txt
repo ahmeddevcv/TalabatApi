@@ -1,0 +1,4 @@
+C:\Users\ahmed\Desktop\Benisueflnatke42\Talabat.G04.Solution\Talabat.APIs\wwwroot\images\products\boot-ang11.png
+C:\Users\ahmed\Desktop\Benisueflnatke42\Talabat.G04.Solution\Talabat.APIs\wwwroot\images\products\boot-ang22.png
+C:\Users\ahmed\Desktop\Benisueflnatke42\Talabat.G04.Solution\Talabat.APIs\wwwroot\images\products\boot-core11.png
+C:\Users\ahmed\Desktop\Benisueflnatke42\Talabat.G04.Solution\Talabat.APIs\wwwroot\images\products\boot-core22.png

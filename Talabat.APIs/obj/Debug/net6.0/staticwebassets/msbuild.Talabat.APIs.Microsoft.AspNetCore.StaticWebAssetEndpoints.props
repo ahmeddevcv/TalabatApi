@@ -1,5 +1,17 @@
 ﻿<Project>
   <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\A Glass Of Iced Coffee With Milk And Ice Cubes.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"1097707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.qi2fiyu70a.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\A Glass Of Iced Coffee With Milk And Ice Cubes.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"qi2fiyu70a"},{"Name":"integrity","Value":"sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1097707"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:34:39 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/boot-ang1.frtmm817eo.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\boot-ang1.png'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
@@ -59,6 +71,42 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"w9hxokgnuo"},{"Name":"integrity","Value":"sha256-tH0qxu2yfEFxnXwn8S9eUtVEa3EGPiaY8JkfdI/L5jY="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/boot-redis1.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"54530"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022tH0qxu2yfEFxnXwn8S9eUtVEa3EGPiaY8JkfdI/L5jY=\u0022"},{"Name":"Last-Modified","Value":"Thu, 30 Jan 2020 03:09:04 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Caramel Frappuccino.mc26vmla2s.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Caramel Frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mc26vmla2s"},{"Name":"integrity","Value":"sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ\u002BRmRI="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/Caramel Frappuccino.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"165403"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ\u002BRmRI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:00:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Caramel Frappuccino.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Caramel Frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ\u002BRmRI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"165403"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ\u002BRmRI=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:00:09 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Caramel Macchiato with Vanilla Cold Foam.9eewfoxrcn.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Caramel Macchiato with Vanilla Cold Foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9eewfoxrcn"},{"Name":"integrity","Value":"sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/Caramel Macchiato with Vanilla Cold Foam.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"552132"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:32:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Caramel Macchiato with Vanilla Cold Foam.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Caramel Macchiato with Vanilla Cold Foam.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"552132"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00224a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:32:24 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Espresso Frappuccino.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Espresso Frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-oENvc1FIVTnurUZN3qyMwd0UL\u002B/0wyIvsrMRkMEuo28="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"21084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oENvc1FIVTnurUZN3qyMwd0UL\u002B/0wyIvsrMRkMEuo28=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:19:02 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Espresso Frappuccino.wouw9cw872.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Espresso Frappuccino.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"wouw9cw872"},{"Name":"integrity","Value":"sha256-oENvc1FIVTnurUZN3qyMwd0UL\u002B/0wyIvsrMRkMEuo28="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/Espresso Frappuccino.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"21084"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022oENvc1FIVTnurUZN3qyMwd0UL\u002B/0wyIvsrMRkMEuo28=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:19:02 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/glove-code1.png">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\glove-code1.png'))</AssetFile>
@@ -215,6 +263,18 @@
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"pxg9jyu8os"},{"Name":"integrity","Value":"sha256-/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/sb-ts1.png"}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"32007"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022/VhVTJIDNcooT8Bwe4QajDcv87edWjriA1XQFyjHLq0=\u0022"},{"Name":"Last-Modified","Value":"Sat, 20 May 2023 05:12:22 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Strawberry Acai Star.jj5g3y1qs8.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Strawberry Acai Star.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"jj5g3y1qs8"},{"Name":"integrity","Value":"sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="},{"Name":"label","Value":"_content/Talabat.APIs/images/products/Strawberry Acai Star.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"442791"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:36:26 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/Talabat.APIs/images/products/Strawberry Acai Star.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\products\Strawberry Acai Star.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"442791"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u00228URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 14 Oct 2025 19:36:26 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

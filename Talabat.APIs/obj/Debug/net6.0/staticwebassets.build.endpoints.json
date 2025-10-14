@@ -3,6 +3,416 @@
   "ManifestType": "Build",
   "Endpoints": [
     {
+      "Route": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "AssetFile": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:34:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.qi2fiyu70a.png",
+      "AssetFile": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1097707"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:34:39 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qi2fiyu70a"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gnQBGZk9Vnd8RoVmUJqG5b/w0XtcAem6t8sUtB1tTE4="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Frappuccino.mc26vmla2s.png",
+      "AssetFile": "images/products/Caramel Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:00:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mc26vmla2s"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Caramel Frappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Frappuccino.png",
+      "AssetFile": "images/products/Caramel Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "165403"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:00:09 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-ZrjFsusPpyEtOwvoU7LZTgJDueekZeMOmFe/lQ+RmRI="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Macchiato with Vanilla Cold Foam.9eewfoxrcn.png",
+      "AssetFile": "images/products/Caramel Macchiato with Vanilla Cold Foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:32:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "9eewfoxrcn"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Caramel Macchiato with Vanilla Cold Foam.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Caramel Macchiato with Vanilla Cold Foam.png",
+      "AssetFile": "images/products/Caramel Macchiato with Vanilla Cold Foam.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "552132"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:32:24 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4a9gBzygrmsBW5w5ZOwzhnXGJRNVgVvVWVGrGoXx2EA="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Espresso Frappuccino.png",
+      "AssetFile": "images/products/Espresso Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:19:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28="
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Espresso Frappuccino.wouw9cw872.png",
+      "AssetFile": "images/products/Espresso Frappuccino.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "21084"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:19:02 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "wouw9cw872"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-oENvc1FIVTnurUZN3qyMwd0UL+/0wyIvsrMRkMEuo28="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Espresso Frappuccino.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Strawberry Acai Star.jj5g3y1qs8.png",
+      "AssetFile": "images/products/Strawberry Acai Star.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:36:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "jj5g3y1qs8"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="
+        },
+        {
+          "Name": "label",
+          "Value": "images/products/Strawberry Acai Star.png"
+        }
+      ]
+    },
+    {
+      "Route": "images/products/Strawberry Acai Star.png",
+      "AssetFile": "images/products/Strawberry Acai Star.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "442791"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 14 Oct 2025 19:36:26 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-8URQDjM97MmkMZ/Y8z26yBp8U61vOw6thlv2oB4T1D0="
+        }
+      ]
+    },
+    {
       "Route": "images/products/boot-ang1.frtmm817eo.png",
       "AssetFile": "images/products/boot-ang1.png",
       "Selectors": [],

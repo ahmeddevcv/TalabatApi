@@ -1,8 +1,12 @@
+wwwroot\images\products\A Glass Of Iced Coffee With Milk And Ice Cubes.png
 wwwroot\images\products\boot-ang1.png
 wwwroot\images\products\boot-ang2.png
 wwwroot\images\products\boot-core1.png
 wwwroot\images\products\boot-core2.png
 wwwroot\images\products\boot-redis1.png
+wwwroot\images\products\Caramel Frappuccino.png
+wwwroot\images\products\Caramel Macchiato with Vanilla Cold Foam.png
+wwwroot\images\products\Espresso Frappuccino.png
 wwwroot\images\products\glove-code1.png
 wwwroot\images\products\glove-code2.png
 wwwroot\images\products\glove-react1.png
@@ -16,3 +20,4 @@ wwwroot\images\products\sb-core1.png
 wwwroot\images\products\sb-core2.png
 wwwroot\images\products\sb-react1.png
 wwwroot\images\products\sb-ts1.png
+wwwroot\images\products\Strawberry Acai Star.png

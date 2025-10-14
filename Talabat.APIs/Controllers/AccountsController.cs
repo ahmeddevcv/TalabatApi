@@ -37,7 +37,7 @@ namespace Talabat.APIs.Controllers
             if (!result.Succeeded) return BadRequest(new ApiResponse(401));
             return new UserDto()
             {
-                DisplayName = model.Email,
+                DisplayName = user.DisplayName,
                 Email = model.Email,
                 //5 token
                 Token = await _tokenService.CreateTokenAsync(user, _userManager)

@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Service", "Talabat.
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Talabat.Repository", "Talabat.Repository\Talabat.Repository.csproj", "{694E4463-9F0C-420C-B5CD-E5B10F119B64}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AdminPanel", "AdminPanel\AdminPanel.csproj", "{2F4702BD-F280-4A21-A057-0DA43E6CDD2B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{694E4463-9F0C-420C-B5CD-E5B10F119B64}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{694E4463-9F0C-420C-B5CD-E5B10F119B64}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{694E4463-9F0C-420C-B5CD-E5B10F119B64}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F4702BD-F280-4A21-A057-0DA43E6CDD2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F4702BD-F280-4A21-A057-0DA43E6CDD2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F4702BD-F280-4A21-A057-0DA43E6CDD2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F4702BD-F280-4A21-A057-0DA43E6CDD2B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
