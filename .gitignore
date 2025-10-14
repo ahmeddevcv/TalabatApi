@@ -1,0 +1,46 @@
+.vs/
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+bin/
+obj/
+*.dll
+*.exe
+*.pdb
+
+# NuGet packages
+*.nupkg
+packages/
+*.snupkg
+
+# Logs and databases
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Web assets
+wwwroot/
+node_modules/
+
+# Others
+*.cache
+*.tmp
+*.ide
+*.DS_Store
+
