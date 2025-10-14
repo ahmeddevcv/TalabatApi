@@ -1,0 +1,17 @@
+﻿
+@*
+    For more information on enabling MVC for empty projects, visit http://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@model RoleFormViewModel
+
+<form  method="post" asp-action="Create">
+
+    <div class="input-group mb-2">
+        <input asp-for="Name" class="form-control" />
+        <div class="input-group-append">
+        <button class="btn btn-primary" type="submit">Add Role</button>
+        </div>
+    </div>
+    <span asp-validation-for="Name" class="text-danger"></span>
+
+</form>
