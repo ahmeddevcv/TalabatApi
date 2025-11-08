@@ -1,11 +1,9 @@
 ## 📸 Screenshots
 
 > 💡 صور المشروع موجودة في مجلد واحد داخل الريبو، تقدر تشوفها من هنا:
+> 💬 Go check out the project screenshots from the folder above
 
 - [`screenshots_angular_api`](./screenshots_angular_api): Contains both Angular UI and API documentation screenshots
-
-> 💬 اذهب وشوف اسكرينات المشروع بنفسك من الرابط اللي فوق  
-> 💬 Go check out the project screenshots from the folder above
 
 
 
