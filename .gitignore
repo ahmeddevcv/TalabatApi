@@ -35,8 +35,9 @@ node_modules/
 *.ide
 *.DS_Store
 
-# Documents
+# Documents & Assets
 *.pdf
+screenshots_angular_api/
 
 # Production secrets & local overrides (Never commit to GitHub)
 appsettings.Production.json
