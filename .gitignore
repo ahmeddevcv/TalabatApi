@@ -1,0 +1,43 @@
+# Visual Studio
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build output
+**/bin/
+**/obj/
+apibuild/
+
+# Compiled files
+*.dll
+*.exe
+*.pdb
+
+# NuGet
+*.nupkg
+*.snupkg
+packages/
+
+# Logs and databases
+*.log
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+node_modules/
+
+# Temporary files
+*.cache
+*.tmp
+*.ide
+*.DS_Store
+
+# Documents
+*.pdf
+
+# Production secrets & local overrides (Never commit to GitHub)
+appsettings.Production.json
+appsettings.*.local.json

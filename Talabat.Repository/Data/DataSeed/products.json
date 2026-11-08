@@ -1,0 +1,402 @@
+[
+  {
+    "Name": "Double Caramel Frappuccino",
+    "Description": "A rich blend of Starbucks Frappuccino roast coffee, milk and ice with buttery caramel flavor, topped with whipped cream and a caramel drizzle. A true indulgence for caramel lovers.",
+    "Price": 85,
+    "PictureUrl": "images/products/caramel_frappuccino.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "White Chocolate Mocha Frappuccino",
+    "Description": "A creamy blend of white chocolate sauce and Frappuccino roast coffee, milk and ice, finished with sweetened whipped cream. Indulgently sweet and deliciously smooth.",
+    "Price": 90,
+    "PictureUrl": "images/products/Caramel Frappuccino.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Espresso Frappuccino",
+    "Description": "A classic blend of espresso and Frappuccino roast coffee with milk and ice, topped with whipped cream. Bold coffee flavor meets smooth frozen texture.",
+    "Price": 75,
+    "PictureUrl": "images/products/Espresso Frappuccino.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Java Chip Frappuccino",
+    "Description": "A blended beverage made with rich Frappuccino chips and mocha sauce, Frappuccino roast coffee, milk, and ice, topped with whipped cream and mocha drizzle.",
+    "Price": 95,
+    "PictureUrl": "images/products/sb-ang1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Caramel Ribbon Crunch Frappuccino",
+    "Description": "A blend of dark caramel sauce, Frappuccino roast coffee, milk and ice, topped with dark caramel drizzle, whipped cream, caramel sugar and ribbon crunch. A layered Frappuccino to remember.",
+    "Price": 99,
+    "PictureUrl": "images/products/sb-ang2.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Strawberry Acai Frappuccino",
+    "Description": "Sweet strawberry juice with real fruit pieces blended over ice. A vibrant, refreshing Frappuccino bursting with fruit-forward flavor and a beautiful pink hue.",
+    "Price": 80,
+    "PictureUrl": "images/products/Strawberry Acai Star.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Mocha Frappuccino",
+    "Description": "Coffee is blended with bittersweet mocha sauce and milk over ice, then topped with sweetened whipped cream. A classic mocha taste in frozen form.",
+    "Price": 78,
+    "PictureUrl": "images/products/sb-core1.png",
+    "ProductTypeId": 1,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Vanilla Latte",
+    "Description": "A smooth and creamy espresso-based drink with steamed milk and vanilla syrup. A timeless coffee classic that delights with every sip.",
+    "Price": 65,
+    "PictureUrl": "images/products/vanilla_latte.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Iced Cafe Latte",
+    "Description": "Freshly brewed espresso shots combined with cold milk over ice for a refreshing coffee experience. A simple but satisfying chilled latte.",
+    "Price": 70,
+    "PictureUrl": "images/products/A Glass Of Iced Coffee With Milk And Ice Cubes.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Caramel Latte",
+    "Description": "Rich espresso combined with velvety steamed milk and buttery caramel syrup. Topped with a light foam for a perfectly balanced caramel coffee experience.",
+    "Price": 72,
+    "PictureUrl": "images/products/sb-core2.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Hazelnut Latte",
+    "Description": "Smooth espresso meets steamed milk with a generous swirl of hazelnut syrup. A nutty, warm, and comforting latte perfect for any time of day.",
+    "Price": 68,
+    "PictureUrl": "images/products/sb-ts1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Cinnamon Roll Latte",
+    "Description": "A cozy combination of espresso, steamed milk, cinnamon syrup, and a hint of brown sugar. Like drinking a warm cinnamon roll in a cup.",
+    "Price": 75,
+    "PictureUrl": "images/products/sb-react1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Oat Milk Latte",
+    "Description": "A barista-crafted espresso with creamy oat milk, perfectly frothed for a rich texture. The plant-based choice that doesn't compromise on taste.",
+    "Price": 80,
+    "PictureUrl": "images/products/hat-core1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Lavender Honey Latte",
+    "Description": "Delicate lavender syrup and golden honey blend with espresso and steamed milk for a floral, naturally sweet latte. A unique and aromatic experience.",
+    "Price": 85,
+    "PictureUrl": "images/products/boot-ang1.png",
+    "ProductTypeId": 2,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "White Chocolate Mocha",
+    "Description": "Espresso with steamed milk and white chocolate-flavored sauce, topped with sweetened whipped cream. A sweet and velvety mocha that satisfies every craving.",
+    "Price": 88,
+    "PictureUrl": "images/products/espresso_mocha.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Dark Chocolate Mocha",
+    "Description": "Bold espresso meets deep dark chocolate sauce and steamed milk, finished with whipped cream. An intensely rich and indulgent coffee drink for chocolate lovers.",
+    "Price": 85,
+    "PictureUrl": "images/products/boot-ang2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Salted Caramel Mocha",
+    "Description": "A blend of espresso, steamed milk, mocha sauce, and toffee nut syrup, topped with whipped cream, caramel drizzle and a sprinkle of sea salt. Sweet, salty, and utterly addictive.",
+    "Price": 92,
+    "PictureUrl": "images/products/boot-core1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Peppermint Mocha",
+    "Description": "Espresso with steamed milk, rich mocha sauce and peppermint syrup, topped with whipped cream and dark chocolate curls. A refreshing twist on the classic mocha.",
+    "Price": 90,
+    "PictureUrl": "images/products/boot-core2.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Coconut Mocha",
+    "Description": "Luscious coconut milk blended with espresso and rich mocha sauce. A tropical take on your favorite mocha with creamy coconut notes in every sip.",
+    "Price": 82,
+    "PictureUrl": "images/products/boot-redis1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Hazelnut Mocha",
+    "Description": "A dreamy combination of espresso, steamed milk, hazelnut syrup, and chocolate mocha sauce. Rich, nutty, and deeply satisfying for any mocha enthusiast.",
+    "Price": 87,
+    "PictureUrl": "images/products/glove-code1.png",
+    "ProductTypeId": 3,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Iced Caramel Macchiato",
+    "Description": "Freshly steamed milk with vanilla-flavored syrup marked with espresso and topped with a caramel drizzle over ice. A beautiful layered iced coffee with caramel sweetness.",
+    "Price": 80,
+    "PictureUrl": "images/products/Caramel Macchiato with Vanilla Cold Foam.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hot Caramel Macchiato",
+    "Description": "Steamed milk sweetened with vanilla syrup, marked with a shot of espresso and finished with a caramel drizzle. The iconic layered drink served warm.",
+    "Price": 75,
+    "PictureUrl": "images/products/glove-code2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Vanilla Macchiato",
+    "Description": "Smooth steamed milk layered with vanilla syrup and topped with bold espresso marks. A classic macchiato elevated with a sweet vanilla touch.",
+    "Price": 72,
+    "PictureUrl": "images/products/glove-react1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Rose Macchiato",
+    "Description": "A romantic blend of steamed milk, rose syrup, and espresso, finished with edible rose petals. Floral, elegant, and utterly Instagrammable.",
+    "Price": 88,
+    "PictureUrl": "images/products/glove-react2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Brown Sugar Oat Macchiato",
+    "Description": "Oat milk shaken with ice, brown sugar syrup and cinnamon, then topped with blonde espresso and a brown sugar syrup swirl. A modern twist on the classic macchiato.",
+    "Price": 92,
+    "PictureUrl": "images/products/hat-react1.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Hazelnut Macchiato",
+    "Description": "Creamy steamed milk with hazelnut syrup, layered with bold espresso shots and a light foam. A nutty, aromatic macchiato that is impossible to resist.",
+    "Price": 79,
+    "PictureUrl": "images/products/hat-react2.png",
+    "ProductTypeId": 4,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Iced Matcha Latte",
+    "Description": "Smooth, premium ceremonial-grade matcha whisked with oat milk and poured over ice. A vibrant green, subtly sweet, and energizing drink with earthy matcha notes.",
+    "Price": 78,
+    "PictureUrl": "images/products/iced_matcha_latte.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Hot Matcha Latte",
+    "Description": "Finely ground green tea matcha whisked into a smooth paste and blended with steamed milk. Earthy, slightly sweet, and full of antioxidants.",
+    "Price": 75,
+    "PictureUrl": "images/products/iced_matcha_latte.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Matcha Frappuccino",
+    "Description": "A creamy frozen blend of matcha green tea, milk, and ice. Topped with sweetened whipped cream for a cool, refreshing treat with a vibrant green color.",
+    "Price": 88,
+    "PictureUrl": "images/products/iced_matcha_latte.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Vanilla Matcha Latte",
+    "Description": "Premium matcha powder blended with creamy steamed milk and a touch of vanilla syrup. A perfectly balanced drink that combines earthy matcha with sweet vanilla.",
+    "Price": 82,
+    "PictureUrl": "images/products/iced_matcha_latte.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Matcha Coconut Latte",
+    "Description": "Ceremonial grade matcha stirred into rich coconut milk over ice. A refreshing, dairy-free tropical take on the classic matcha latte.",
+    "Price": 85,
+    "PictureUrl": "images/products/iced_matcha_latte.png",
+    "ProductTypeId": 5,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Chocolate Fudge Cake",
+    "Description": "An intensely rich multi-layered chocolate fudge cake made with Belgian dark chocolate ganache, moist sponge layers, and chocolate buttercream. A chocolate lover's dream.",
+    "Price": 120,
+    "PictureUrl": "images/products/chocolate_cake.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Honey Cake",
+    "Description": "A soft and fragrant honey sponge cake layered with lightly sweetened cream and a drizzle of pure wildflower honey. Simple, classic, and incredibly comforting.",
+    "Price": 95,
+    "PictureUrl": "images/products/hat-react1.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Blueberry Cheesecake",
+    "Description": "A velvety New York-style cheesecake on a buttery graham cracker crust, topped with a vibrant fresh blueberry compote. Rich, tangy, and absolutely irresistible.",
+    "Price": 130,
+    "PictureUrl": "images/products/hat-react2.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Carrot Walnut Cake",
+    "Description": "A moist carrot cake packed with walnuts, warming spices, and topped with a generous layer of smooth cream cheese frosting. A classic comfort cake done right.",
+    "Price": 110,
+    "PictureUrl": "images/products/chocolate_cake.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Lemon Drizzle Cake",
+    "Description": "A light and zesty lemon sponge cake soaked with tangy lemon syrup and finished with a lemon glaze. Bright, refreshing, and perfectly balanced between sweet and sour.",
+    "Price": 100,
+    "PictureUrl": "images/products/chocolate_cake.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Red Velvet Cake",
+    "Description": "A show-stopping red velvet sponge with layers of rich cocoa flavor, topped with luxurious cream cheese frosting and red velvet crumbs. Bold in color, exquisite in taste.",
+    "Price": 125,
+    "PictureUrl": "images/products/chocolate_cake.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Tiramisu Cake",
+    "Description": "Italian-inspired espresso-soaked sponge cake layers with mascarpone cream, generously dusted with premium cocoa powder. An elegant dessert with intense coffee-cream flavors.",
+    "Price": 140,
+    "PictureUrl": "images/products/chocolate_cake.png",
+    "ProductTypeId": 6,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Glazed Original Donut",
+    "Description": "The iconic Krispy Kreme original glazed donut — light, airy yeast dough coated in a perfectly sweet glaze. Warm, melt-in-your-mouth, and simply unforgettable.",
+    "Price": 35,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Chocolate Sprinkle Donut",
+    "Description": "A fluffy yeast donut dipped in rich milk chocolate glaze and topped with rainbow sprinkles. Fun, colorful, and deliciously sweet for every chocolate lover.",
+    "Price": 40,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Strawberry Glazed Donut",
+    "Description": "A soft and pillowy donut coated in a vibrant strawberry-flavored glaze. Fruity, sweet, and visually stunning with its natural pink color.",
+    "Price": 42,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 7
+  },
+  {
+    "Name": "Boston Cream Donut",
+    "Description": "A classic yeast-raised donut filled with silky vanilla custard cream and topped with a rich dark chocolate glaze. A timeless bakery favorite done to perfection.",
+    "Price": 45,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Cinnamon Sugar Donut",
+    "Description": "A warm cake donut rolled in a generous coating of cinnamon sugar. Crispy on the outside, soft and fluffy on the inside — a comforting classic anytime.",
+    "Price": 38,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 5
+  },
+  {
+    "Name": "Double Chocolate Donut",
+    "Description": "A rich chocolate cake donut dipped in a thick dark chocolate glaze and finished with chocolate sprinkles. For those who believe you can never have too much chocolate.",
+    "Price": 48,
+    "PictureUrl": "images/products/glazed_donuts.png",
+    "ProductTypeId": 7,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Greek Salad",
+    "Description": "A classic Mediterranean salad with fresh tomatoes, crisp cucumbers, red onion, Kalamata olives, and generous chunks of creamy feta cheese, drizzled with extra virgin olive oil.",
+    "Price": 65,
+    "PictureUrl": "images/products/glove-code2.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 3
+  },
+  {
+    "Name": "Caesar Salad",
+    "Description": "Crisp romaine lettuce tossed in a classic Caesar dressing with golden croutons, shaved Parmesan, and a squeeze of fresh lemon. A timeless salad that never disappoints.",
+    "Price": 70,
+    "PictureUrl": "images/products/glove-react1.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 2
+  },
+  {
+    "Name": "Avocado & Quinoa Salad",
+    "Description": "Protein-rich quinoa paired with creamy avocado, cherry tomatoes, edamame, cucumber, and a zesty lime-cilantro dressing. A nutritious and filling power salad.",
+    "Price": 85,
+    "PictureUrl": "images/products/glove-react2.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 1
+  },
+  {
+    "Name": "Nicoise Salad",
+    "Description": "A classic French salad with tuna, hard-boiled eggs, green beans, cherry tomatoes, Nicoise olives, and new potatoes, dressed with a light Dijon vinaigrette.",
+    "Price": 90,
+    "PictureUrl": "images/products/glove-code1.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 6
+  },
+  {
+    "Name": "Roasted Beet & Goat Cheese Salad",
+    "Description": "Sweet roasted golden and red beets with creamy goat cheese, candied walnuts, arugula, and a honey balsamic dressing. A sophisticated salad with bold flavors and textures.",
+    "Price": 88,
+    "PictureUrl": "images/products/glove-react1.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 4
+  },
+  {
+    "Name": "Watermelon Feta Mint Salad",
+    "Description": "Refreshing cubes of chilled watermelon paired with creamy feta, fresh mint leaves, and a drizzle of balsamic reduction. A summer salad that is sweet, salty, and cooling.",
+    "Price": 72,
+    "PictureUrl": "images/products/glove-code2.png",
+    "ProductTypeId": 8,
+    "ProductBrandId": 5
+  }
+]
